@@ -1,0 +1,17 @@
+{
+  "name": "torrent_client",
+  "version": "1.0.0",
+  "description": "A personal torrent-client software",
+  "main": "index.js",
+  "dependencies": {
+    "bencode": "^2.0.2",
+    "bn": "^1.0.5",
+    "bn.js": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varshith Kancharla",
+  "license": "ISC"
+}
