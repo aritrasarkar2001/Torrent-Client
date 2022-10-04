@@ -1,10 +1,5 @@
 
-<h1 align="center"> TorrentBee </h1>
-
-<p align = "center">
-  <img src="./TorrentBee-logos.jpeg" alt="TorrentBee logo" title="TorrentBee"  height="350" style="display: block; margin: 0 auto" />
-</p>
-
+<h1 align="center"> Torrent Client </h1>
 
 ## :pushpin: Contents of this file :
 
